@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Probando</string>
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="boton1">Hoteles</string>
+    <string name="descripcionhoteles">
+        En carolina del principe,econtraras hoteles y glampings desde los
+        $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="bienvenida">Bienvenido</string>
+    <string name="inicio">Descubrenos</string>
+    <string name="bienvenidausuario">Bienvenido</string>
+
+</resources>
